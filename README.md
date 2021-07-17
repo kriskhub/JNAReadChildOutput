@@ -1,7 +1,5 @@
-Java Native Access Read Child Output
-
 # Description
-This repository gives an example how to use the Java Native Access Library to read the stdout put of a child process. In this particular example we are starting a powershell script as a child process in an specific user context. 
+This repository gives an example on how to use the Java Native Access Library to read the stdout of a child process. In this particular example we are starting a powershell script as a child process in an specific user context and reading its output.
 
 # How-To
 * Argument 0: Path to the executable
